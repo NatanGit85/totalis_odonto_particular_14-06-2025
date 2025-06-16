@@ -1,0 +1,65 @@
+DENTISTA,UNIDADE, VALOR ,PROCEDIMENTO,data,Turno,dia_semana
+Leticia,Maracanaú,1500.0,PRÓTESE FLEX,2025-03-28,Manhã,Sexta-feira
+Marina,Messejana,80.0,Contrato - Orto,2025-03-31,Manhã,Segunda-feira
+Maria Do Socorro,Bezerra,240.0,LIMPEZA II,2025-03-29,Manhã,Sábado
+Vanilde Belo Aragão,Bezerra,125.0,Manutenção ortodontico ,2025-03-31,Tarde,Segunda-feira
+Carlos Eduardo,Messejana,200.0,EXODONTIA,2025-04-01,Tarde,Terça-feira
+Maritza,Messejana,70.0,Contrato - Orto,2025-04-02,Manhã,Quarta-feira
+Erica,Bezerra,480.0,LIMPEZA II /RESTAURAÇÃO UD 13 E 23,2025-04-01,Noite,Terça-feira
+Laura Rodrigues,Conjunto Ceará,360.0,LIMPEZA II/RESTAURAÇÃO 1 FACE UD 26,2025-04-03,Tarde,Quinta-feira
+Laura Rodrigues,Maracanaú,140.0,Limpeza 1,2025-04-05,Manhã,Sábado
+Silvio,Bezerra,120.0,REVISÃO DE ODONTOGRAMA ,2025-04-04,Tarde,Sexta-feira
+Lilian Cibele,Conjunto Ceará,365.0,RECONSTRUÇÃO TIPO V UD 11 E AJUSTE OCLUSAL,2025-04-07,Manhã,Segunda-feira
+Cassio,Bezerra,120.0,REMOÇÃO DE APARELHO,2025-04-09,Manhã,Quarta-feira
+Italo Castelo,Aldeota,240.0,MANUTENÇÃO DE PRÓTESE,2025-04-05,Manhã,Sábado
+Jessey,Parangaba,60.0,CONTRATO ORTO,2025-04-08,Noite,Terça-feira
+Ana Mylena,Messejana,60.0,CONSULTA ODONTOLÓGICA INICIAL,2025-04-11,Manhã,Sexta-feira
+Ana Mylena,Messejana,45.0,RADIOGRAFIA PERIAPICAL UD 47,2025-04-11,Manhã,Sexta-feira
+Italo Castelo,Bezerra,1500.0,IMPLANTE ESPECIAL UD 37,2025-04-12,Manhã,Sábado
+Silvio,Parangaba,120.0,RESTAURAÇÃO-RESINA FOTOPOLIMERIZÁVEL,2025-04-12,Manhã,Sábado
+Silvio,Parangaba,120.0,RESTAURAÇÃO-RESINA FOTOPOLIMERIZÁVEL,2025-04-12,Manhã,Sábado
+Silvio,Parangaba,120.0,RESTAURAÇÃO-RESINA FOTOPOLIMERIZÁVEL,2025-04-12,Manhã,Sábado
+Lennilton,Messejana,350.0,RECONSTRUÇÃO TIPO IV UD 36,2025-04-15,Tarde,Terça-feira
+Jessey,Parangaba,60.0,Manutenção ortodontico ,2025-04-15,Manhã,Terça-feira
+Leticia,Maracanaú,380.0,REMOÇÃO DE SISO,2025-04-16,Tarde,Quarta-feira
+Gabriela,Parangaba,500.0,clareamento caserio,2025-04-23,Noite,Quarta-feira
+Ana Mylena,Aldeota,228.0,"LIMPEZA II - TARTARECTOMIA , PROFILAXIA ",2025-04-25,Manhã,Sexta-feira
+Monatha,Parangaba,1725.0,PRÓTESE FLEX,2025-04-25,Tarde,Sexta-feira
+Carlos Veras,Parangaba,70.0,Contrato - Orto,2025-04-25,Tarde,Sexta-feira
+Zeulier,Messejana,135.0,CIMENTAÇÃO PROVISÓRIO ,2025-04-30,Tarde,Quarta-feira
+Zeuderi,Aldeota,70.0,contrato de orto,2025-04-09,Manhã,Quarta-feira
+Leticia,Messejana,1600.0,COROA TOTAL METALO CERÂMICA,2025-05-17,Tarde,Sábado
+Joana,Centro,365.0,RECONSTRUÇÃO TIPO V E AJUSTE OCLUSAL ,2025-05-02,Tarde,Sexta-feira
+Carollyne,Maracanaú,510.0,"Limpeza II,RESTAURAÇÃO 2 FACES UD 44 e 25",2025-05-05,Tarde,Segunda-feira
+Carlos Veras,Parangaba,60.0,MANUTENÇÃO,2025-05-02,Tarde,Sexta-feira
+Lilian Cibele,Bezerra,605.0,LIMPEZA II /RECONSTRUÇÃO/ AJUSTE OCLUSAL ,2025-05-06,Manhã,Terça-feira
+Monatha,Parangaba,770.0,PLACA DE MORDIDA MIORRELAXANTE,2025-05-07,Noite,Quarta-feira
+Leticia,Messejana,750.0,CLAREAMENTO DENTAL MISTO,2025-05-08,Tarde,Quinta-feira
+Italo Castelo,Bezerra,260.0,MANUTENÇÃO IMPLANTE,2025-05-10,Manhã,Sábado
+Allyne Fontenele,Conjunto Ceará,50.0, RADIOGRAFIA PERIAPICAL,2025-05-09,Tarde,Sexta-feira
+Allyne Fontenele,Conjunto Ceará,50.0, RADIOGRAFIA PERIAPICAL,2025-05-09,Tarde,Sexta-feira
+Joana,Centro,460.0,NÚCLEO COM PINO DE FIBRA DE VIDRO e reconstrução ,2025-05-14,Manhã,Quarta-feira
+Carollyne,Conjunto Ceará,140.0,LIMPEZA I - PROFILAXIA E APLICAÇÃO DE FLÚOR,2025-05-16,Manhã,Sexta-feira
+Leticia,Messejana,1600.0, PRÓTESE PARCIAL REMOVÍVEL COM GRAMPOS BILATERAL,2025-05-15,Tarde,Quinta-feira
+Carlos Eduardo,Bezerra,500.0,REMOÇÃO DE DENTES INCLUSOS OU IMPACTADOS,2025-05-16,Manhã,Sexta-feira
+Italo Castelo,Bezerra,1500.0,IMPLANTE ESPECIAL UD 21,2025-05-20,Manhã,Terça-feira
+Leticia,Aldeota,427.5,RECONSTRUÇÃO TIPO V UD 36,2025-05-24,Manhã,Sábado
+Tales,Messejana,480.0,LIMPEZA II e RESTAURAÇÃO EM RESINA 16 e 36,2025-05-24,Manhã,Sábado
+Lilian Cibele,Bezerra,725.0, FACETA DIRETA EM RESINA e AJUSTE,2025-05-27,Tarde,Terça-feira
+Gabriela,Parangaba,35.0,RADIOGRAFIA PERIAPICAL ,2025-05-28,Tarde,Quarta-feira
+Julio,Parangaba,60.0,prescrição,2025-05-29,Manhã,Quinta-feira
+Gabriela,Bezerra,125.0,RESTAURAÇÃO EM RESINA FOTOPOLIMERIZÁVEL 2 FACES UD 15,2025-06-06,Manhã,Sexta-feira
+Leticia,Messejana,349.0,limpeza e restauração ,2025-05-15,Tarde,Quinta-feira
+Joana,Centro,260.0,COROA PROVISÓRIA SEM PIN,2025-05-16,Tarde,Sexta-feira
+Joana,Centro,500.0,"RECONSTRUÇÃO TIPO IV UD 11,12,21",2025-05-16,Manhã,Sexta-feira
+Joana,Centro,190.0, (PARTICULAR) RECONSTRUÇÃO TIPO V UD 24 ,2025-05-27,Tarde,Terça-feira
+Gabriela,Parangaba,3800.0,retratamento de 2 canais e 1 coroa metalo,2025-06-12,Tarde,Quinta-feira
+Allyne Fontenele,Centro,1380.0,RESTAURAÇÃO INLAY E ONLAY (ARTGLASS/SOLIDEX) 46 e 47 e Ajuste Oclusal,2025-06-12,Manhã,Quinta-feira
+Thais Carolina,Aldeota,1260.0,"RASPAGEM SUB-GENGIVAL,ALISAMENTO RADICULAR",2025-05-21,Tarde,Quarta-feira
+Flavia,Parangaba,85.0,MANUTENÇÃO DE APARELHO,2025-06-05,Tarde,Quinta-feira
+Tales,Maracanaú,65.0,PROFILAXIA: POLIMENTO CORONÁRIO,,Sem Horário,
+Fabio,Messejana,140.0,limpeza Odontopediatrica,2025-06-10,Manhã,Terça-feira
+Lennilton,Messejana,400.0,RECONSTRUÇÃO TIPO V UD 21,2025-06-03,Noite,Terça-feira
+Jessey,Parangaba,220.0,"LIMPEZA II - TARTARECTOMIA , PROFILAXIA",2025-06-12,Manhã,Quinta-feira
+Monatha,Parangaba,115.0,RASPAGEM SUPRA-GENGIVA,2025-06-13,Tarde,Sexta-feira
+Gabriela,Parangaba,360.0,) RESTAURAÇÃO EM RESINA FOTOPOLIMERIZÁVEL 1 FACE 44/45/15,2025-06-13,Tarde,Sexta-feira
